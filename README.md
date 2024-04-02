@@ -2,13 +2,14 @@
 ## I am Abdalla Hisham!
 
 ## About Me
-Experienced PHP Backend Developer for 6+ years, using (Laravel/CodeIgniter 3/Symfony), React/Vue (Beginner). Interested in Software Architectures (DDD, SOA) and Building scalable web applications. I am also very good with refactoring and optimizing old/legacy systems, using cutting edge technologies. fast learner for new techs for special cases.
+Experienced Backend Developer for 6+ years, using [TALL Stack](https://tallstack.dev) & (Laravel/CodeIgniter 3/Symfony), React/Vue. Interested in Software Architectures (DDD, SOA, Microservices) and Building scalable web applications. I am also very good with refactoring and optimizing old/legacy systems, using cutting-edge technologies. fast learner for new techs for special cases.
 
 ## My Experiences
 
-- PHP Backend Developer - `at:` OK Tamam Group (12/2020 - Present)
-- PHP Backend Developer/Tech Lead (Temporary) - `at:` Shams Alidarah (12/2018 - 12-2020)
-- PHP Developer - `Freelancing projects` (01/2018 - 12/2020)
+- Full Stack Developer - `at:` Freelancing (01/2024 - Present)
+- Senior Backend Developer - `at:` OK Tamam Group (12/2020 - 12/2023)
+- Backend Developer/Tech Lead (Temporary) - `at:` Shams Alidarah (12/2018 - 12-2020)
+- Backend Developer - `Freelancing projects` (01/2018 - 12/2020)
 - Backend Developer (Part-time) - `at:` XZone (07/2018 - 12-2018)
 - Junior Web Developer - `at:` Azzm for Computer Science (04/2017 - 06/2018)
 
