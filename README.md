@@ -8,7 +8,7 @@ Experienced Backend Developer for 7+ years, using [TALL Stack](https://tallstack
 - Team Leader / Senior Backend Developer - `at:` [Mahjoz](https://mahjoz.io/en/mahjoz-online-booking-system)
 - Full Stack Developer - `at:` Freelancing (01/2024 - Present)
 - Senior Backend Developer - `at:` [OK Tamam Group](https://oktamam.com/en/) (12/2020 - 12/2023)
-- Backend Developer/Tech Lead (Temporary) - `at:` Shams Alidarah (12/2018 - 12-2020)
+- Backend Developer/Team Leader (Temporary) - `at:` Shams Alidarah (12/2018 - 12-2020)
 - Backend Developer - `Freelancing projects` (01/2018 - 12/2020)
 - Backend Developer (Part-time) - `at:` XZone (07/2018 - 12-2018)
 - Junior Web Developer - `at:` Azzm for Computer Science (04/2017 - 06/2018)
