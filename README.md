@@ -2,7 +2,7 @@
 ## I am Abdalla Hisham!
 
 ## About Me
-Experienced Backend Developer for 7+ years, using [TALL Stack](https://tallstack.dev) & (Laravel/Symfony), React/Vue. Interested in Software Architectures (DDD, Microservices) and Building scalable web applications. Highly Skilled with refactoring and optimizing old/legacy systems, using cutting-edge technologies. fast learner for new techs for special cases.
+Senior Backend Developer for 7+ years, using [TALL Stack](https://tallstack.dev) & (Laravel/Symfony) also Go (Fiber/Gin) & Ruby on Rails, React/Vue. Interested in Software Architectures (DDD, Microservices) and Building scalable web applications. Highly Skilled with refactoring and optimizing old/legacy systems, using cutting-edge technologies. fast learner for new techs for special cases.
 
 ## My Experiences
 - Team Leader / Senior Backend Developer - `at:` [Mahjoz](https://mahjoz.io/en/mahjoz-online-booking-system)
