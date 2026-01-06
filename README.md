@@ -2,7 +2,8 @@
 ## I am Abdalla Hisham!
 
 ## About Me
-Senior Backend Developer with over 7 years of expertise specializing in PHP & frameworks (Laravel, Symfony, CodeIgniter) and TALL/VLIT Stacks. Proven track record in designing and implementing scalable SaaS applications and custom backend architectures.
+Senior Backend Developer with over 8 years of expertise specializing in PHP & frameworks (Laravel, Symfony, CodeIgniter) and TALL/VLIT Stacks. Proven track record in designing and implementing scalable SaaS applications and custom backend architectures. also using Go to enhance some core services. helped scale and build core features in my previous and current work. Built tech teams for a couple of companies I worked forf before and have the proven records to mentor, lead, and inspire new teammates.
+
 Demonstrated success in modernizing legacy systems through strategic refactoring and optimization. Proficient in leveraging cutting-edge technologies and databases to deliver robust solutions tailored to specific business requirements.
 Keen interest in Domain-Driven Design (DDD) and Microservices architecture, with a focus on building high-performance web applications. Adaptable professional with a passion for continuous learning and implementing innovative technologies to solve complex challenges.
 
